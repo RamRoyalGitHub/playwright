@@ -1,0 +1,3 @@
+[AsyncFunction (anonymous)] {
+  [Symbol(signature)]: [ 'page', 'context' ]
+}

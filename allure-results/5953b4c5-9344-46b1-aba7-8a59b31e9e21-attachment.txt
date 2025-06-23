@@ -1,0 +1,28 @@
+[
+  {
+    grep: /.*/,
+    grepInvert: null,
+    outputDir: 'C:\\CodeBase\\PW\\test-results',
+    repeatEach: 1,
+    retries: 0,
+    metadata: {},
+    name: 'chromium',
+    testDir: 'C:\\CodeBase\\PW\\tests',
+    snapshotDir: 'C:\\CodeBase\\PW\\tests',
+    testIgnore: [],
+    testMatch: '**/*.@(spec|test).?(c|m)[jt]s?(x)',
+    timeout: 30000,
+    use: {
+      baseURL: 'https://rahulshettyacademy.com',
+      screenshot: 'only-on-failure',
+      trace: 'off',
+      video: 'off',
+      headless: false,
+      _optionContextReuseMode: 'when-possible',
+      _optionConnectOptions: [Object]
+    },
+    dependencies: [],
+    teardown: undefined,
+    __projectId: 'chromium'
+  }
+]

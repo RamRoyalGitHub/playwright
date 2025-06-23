@@ -1,0 +1,1 @@
+[ 'multipe-tabs.spec.ts', 'Valiadte multiple tabs functionality @ram' ]
